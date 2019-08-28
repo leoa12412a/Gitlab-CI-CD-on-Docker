@@ -34,7 +34,7 @@ docker run -d --name {runner-name} -v /var/run/docker.sock:/var/run/docker.sock 
 
 開啟gitlab並登入管理者帳號，管理區塊(Admin Area)->概纜(Overview)->執行器(Runner)，取得url跟token備用
 
-![image](https://github.com/leoa12412a/Gitlab-CI-CD-on-Docker/blob/master/runner_token.png)
+![image](https://github.com/leoa12412a/Gitlab-CI-CD-on-Docker/blob/master/runner_token.PNG)
 
 ## Step3 : 註冊Runner
 
